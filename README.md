@@ -18,6 +18,7 @@ Step 2)- In order to comunicate with each other A1 & B1 must have the same netma
 Ps: an IP address is not assignable cause it's already taken by either the network or the broadcast.
 
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
+![Uploading level 1 done.png…]()
 
 -------------
 * LEVEL (2)
