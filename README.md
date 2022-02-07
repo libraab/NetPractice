@@ -23,7 +23,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes rig
 * LEVEL (2)
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
-
+![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 step 2)- Computer A needs to comunicate with computer B; so they must have the same netmask and close IP addressses (same as level 1).
 
 step 3)- The netmasks of Computer C & D are the same; 30 is another way to write 255.255.255.252.
@@ -31,21 +31,21 @@ step 3)- The netmasks of Computer C & D are the same; 30 is another way to write
   Now we need to give them close IP adresses (such as 20.0.0.1 & 20.0.0.2).
   
   Ps : Doesn't work with IP starting with 10 (cause they're private addr).
- 
+ ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
 -------------
 * LEVEL (3)
 -------------
 step 1)- Clear all the sections that you can clear.
-
+![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
 step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same netmask.
 
 step 3)- Give Host C & B close IP addresses to Host A IP address. (if the 2 IP addresses that comes after doesn't work try the 2 that comes before).
-
+![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
 -------------
 * LEVEL (4)
 -------------
 step 1)- Clear all the sections that you can clear.
-
+![Screen Shot 2022-02-07 at 1 56 23 PM](https://user-images.githubusercontent.com/81954460/152797581-070bc051-29a9-44ca-9264-8b89b162a8be.png)
 step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take. For now, give to each item an IP close to A1's.
 
 step 3)- We can put any netmask here except over /29 (why? cause with /30 you can only afford 2 IP addresses) but let's not be greedy and let's put /29.
