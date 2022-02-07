@@ -6,19 +6,24 @@
 TUTORIEL
 
 -------------
-| LEVEL (1) | 
+* LEVEL (1) * 
 -------------
 Step 1)- Clear all the sections that you can clear.
-Step 2)- In order to comunicate with each other A1 & B1 have to have the same nemask and close IP addresses (same for C1 & D1), so we're gonna give to A1 the IP address that comes right after or before B1 IP address; (if the address before doesn't work that means it is not assignable, try the ip address that comes after).
-Ps: an IP adress is not assignable cause it's already taken by either the network or the broadcast.
+Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
+  So we're gonna give to A1 the IP address that comes right after (or before) B1 IP address.
+  If the address before doesn't work that means it is not assignable, try the ip address that comes after.
+  Ps: an IP address is not assignable cause it's already taken by either the network or the broadcast.
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
+
 -------------
 * LEVEL (2) *
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way)
 step 2)- Computer A needs to comunicate with computer B; for that, they must have the same netmask and a close IP addressses (same as level 1.
-step 3)- The netmasks of Computer C & D are the same; 30 is another way to write 255.255.255.252. So now we need to give them close IP adresses (such as 20.0.0.1 & 20.0.0.2)
-Ps : Doen't work with IP starting with 10 (cause they're private addr).
+step 3)- The netmasks of Computer C & D are the same; 30 is another way to write 255.255.255.252.
+  So now we need to give them close IP adresses (such as 20.0.0.1 & 20.0.0.2)
+  Ps : Doesn't work with IP starting with 10 (cause they're private addr).
+ 
 -------------
 * LEVEL (3) *
 -------------
