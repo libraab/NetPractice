@@ -6,12 +6,12 @@
 TUTORIEL
 
 -------------
-| LEVEL (1) | Step 1)- Clear all the sections that you can clear.
+| LEVEL (1) | 
+-------------
+Step 1)- Clear all the sections that you can clear.
 Step 2)- In order to comunicate with each other A1 & B1 have to have the same nemask and close IP addresses (same for C1 & D1), so we're gonna give to A1 the IP address that comes right after or before B1 IP address; (if the address before doesn't work that means it is not assignable, try the ip address that comes after).
 Ps: an IP adress is not assignable cause it's already taken by either the network or the broadcast.
-Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address. |
--------------
-
+Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 -------------
 * LEVEL (2) *
 -------------
