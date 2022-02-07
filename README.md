@@ -6,7 +6,7 @@
 TUTORIEL
 
 -------------
-* LEVEL (1)
+* LEVEL (1) *
 -------------
 Step 1)- Clear all the sections that you can clear.
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
