@@ -6,7 +6,7 @@
 TUTORIEL
 
 -------------
-* LEVEL (1) *
+* LEVEL (1) 
 -------------
 Step 1)- Clear all the sections that you can clear.
 
