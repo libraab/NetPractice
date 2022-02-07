@@ -5,9 +5,9 @@
 
 TUTORIEL
 
--------------
-* LEVEL (1) * 
--------------
+-----
+* LEVEL (1) 
+-----
 Step 1)- Clear all the sections that you can clear.
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
   So we're gonna give to A1 the IP address that comes right after (or before) B1 IP address.
@@ -16,7 +16,7 @@ Step 2)- In order to comunicate with each other A1 & B1 must have the same netma
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 
 -------------
-* LEVEL (2) *
+* LEVEL (2)
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way)
 step 2)- Computer A needs to comunicate with computer B; for that, they must have the same netmask and a close IP addressses (same as level 1.
@@ -25,19 +25,19 @@ step 3)- The netmasks of Computer C & D are the same; 30 is another way to write
   Ps : Doesn't work with IP starting with 10 (cause they're private addr).
  
 -------------
-* LEVEL (3) *
+* LEVEL (3)
 -------------
 step 1)- Clear all the sections that you can clear.
 step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same netmask.
 step 3)- Give Host C & B close IP addresses to Host A IP address. (if the 2 IP addresses that comes after doesn't work try the 2 that comes before).
 -------------
-* LEVEL (4) *
+* LEVEL (4)
 -------------
 step 1)- Clear all the sections that you can clear
 step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take. For now, give to each item an IP close to A1's.
 step 3)- We can put any netmask here except over /29 (why? cause with /30 you can only afford 2 IP addresses) but let's not be greedy and let's put /29.  
 -------------
-* LEVEL (5) *
+* LEVEL (5)
 -------------
 step 1)- Clear all the sections that you can clear
 step 2)- Give the same netmask to R1 & A1. 
@@ -47,7 +47,7 @@ step 5)- In the right section of machine B routes, put the IP of R2.
 step 6)- In the right section of machine A routes, put the IP of R1.
 (it's like telling the computer "if you don't find what you're looking for, by default go there, and look for it"). 
 -------------
-* LEVEL (6) *
+* LEVEL (6)
 -------------
 step 1)- Clear all the sections that you can clear
 step 2)- Put "default" in all the left section of blue boxes except for Internet (cause The internet is special).
@@ -55,7 +55,7 @@ step 3)- Netmask of A1 has to be the same of R1's netmask.
 step 4)- R1 has to have a close IP address to A1's IP. R1's IP must be in the right section of client A.
 step 5)- In the left section of Internet put the network address of A1; (how? by replacing the last digits by 0) then add a netmask of /24 (if you wonder why /24, because it's convenient). 
 -------------
-* LEVEL (7) *
+* LEVEL (7)
 -------------
 step 1)- Clear all the sections that you can clear
 step 2)- If you already have "0.0.0.0/0" at the left section of the routes keep them("0.0.0.0/0" or "default" are the same).
