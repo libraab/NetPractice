@@ -5,9 +5,9 @@
 
 TUTORIEL
 
------
-* LEVEL (1) 
------
+-------------
+| LEVEL (1) |
+-------------
 Step 1)- Clear all the sections that you can clear.
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
   So we're gonna give to A1 the IP address that comes right after (or before) B1 IP address.
@@ -16,7 +16,7 @@ Step 2)- In order to comunicate with each other A1 & B1 must have the same netma
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 
 -------------
-* LEVEL (2)
+| LEVEL (2) |
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way)
 step 2)- Computer A needs to comunicate with computer B; for that, they must have the same netmask and a close IP addressses (same as level 1.
