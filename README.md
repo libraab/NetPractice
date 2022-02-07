@@ -20,12 +20,16 @@ Ps: an IP address is not assignable cause it's already taken by either the netwo
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 
 -------------
-| LEVEL (2) |
+* LEVEL (2)
 -------------
-step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way)
-step 2)- Computer A needs to comunicate with computer B; for that, they must have the same netmask and a close IP addressses (same as level 1.
+step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
+
+step 2)- Computer A needs to comunicate with computer B; for that, they must have the same netmask and a close IP addressses (same as level 1).
+
 step 3)- The netmasks of Computer C & D are the same; 30 is another way to write 255.255.255.252.
+
   So now we need to give them close IP adresses (such as 20.0.0.1 & 20.0.0.2)
+  
   Ps : Doesn't work with IP starting with 10 (cause they're private addr).
  
 -------------
