@@ -9,7 +9,7 @@ TUTORIEL
 * LEVEL (1) 
 -------------
 Step 1)- Clear all the sections that you can clear.
-
+![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
 
   So we're gonna give to A1 the IP address that comes right after (or before) B1 IP address.
@@ -19,8 +19,6 @@ Ps: an IP address is not assignable cause it's already taken by either the netwo
 
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 ![level 1 done](https://user-images.githubusercontent.com/81954460/152797024-ceefb220-99a3-429c-adaa-74bf70ced06b.png)
-
-
 -------------
 * LEVEL (2)
 -------------
