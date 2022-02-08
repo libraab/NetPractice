@@ -6,7 +6,7 @@
 TUTORIEL
 
 -------------
-                                    * L E V E L (1) 
+                                                                * L E V E L (1) 
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
@@ -23,7 +23,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes rig
 ![level 1 done](https://user-images.githubusercontent.com/81954460/152797024-ceefb220-99a3-429c-adaa-74bf70ced06b.png)
 
 -------------
-* LEVEL (2)
+                                                               * L E V E L (2)
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
@@ -37,7 +37,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
  ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
  
 -------------
-* LEVEL (3)
+                                                             * L E V E L (3)
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
