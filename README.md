@@ -6,7 +6,7 @@
 TUTORIEL
 
 -------------
-                                                                * L E V E L (1) 
+                                                      * L E V E L (1) 
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
@@ -23,7 +23,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes rig
 ![level 1 done](https://user-images.githubusercontent.com/81954460/152797024-ceefb220-99a3-429c-adaa-74bf70ced06b.png)
 
 -------------
-                                                               * L E V E L (2)
+                                                       * L E V E L (2)
 -------------
 step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
@@ -37,7 +37,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
  ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
  
 -------------
-                                                             * L E V E L (3)
+                                                       * L E V E L (3)
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
@@ -49,7 +49,7 @@ Step 3)- Give Host C & B close IP addresses to Host A IP address.
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
 
 -------------
-* LEVEL (4)
+                                                       * L E V E L (4)
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 56 23 PM](https://user-images.githubusercontent.com/81954460/152797581-070bc051-29a9-44ca-9264-8b89b162a8be.png)
@@ -62,7 +62,7 @@ step 3)- We can put any netmask here except a mask over /29 (why? cause with /30
 The smaller the mask the larger range of IP it will give you but let's not be greedy and let's put /29.
 
 -------------
-* LEVEL (5)
+                                                       * L E V E L (5)
 -------------
 step 1)- Clear all the sections that you can clear.
 
@@ -79,7 +79,7 @@ step 6)- In the right section of machine A routes, put the IP of R1.
 (It's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
 
 -------------
-* LEVEL (6)
+                                                     * L E V E L (6)
 -------------
 step 1)- Clear all the sections that you can clear.
 
@@ -92,7 +92,7 @@ step 4)- R1 has to have a close IP address to A1's IP. R1's IP must be in the ri
 step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0) then add a netmask of /24 (if you wonder why /24, because it's convenient.
 
 -------------
-* LEVEL (7)
+                                                     * L E V E L (7)
 -------------
 step 1)- Clear all the sections that you can clear.
 
@@ -123,12 +123,12 @@ step 9)- When you have 2 routers linked to each other, in order to connect them 
 so put R12's IP in the right section of router R2 and put R21's IP in the right section of router R1.
 
 -------------
-* LEVEL (8)
+                                                  * L E V E L (8)
 -------------
 step 1)- Clear all the sections that you can clear.
 
 -------------
-* LEVEL (9)
+                                                  * L E V E L (9)
 -------------
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 
@@ -145,7 +145,7 @@ Goal (2) --> cation needs to communicate with gluon.
 step 3)- 
 
 --------------
-* LEVEL (10)
+                                                  * L E V E L (10)
 --------------
 step 1)- clear all the sections that you can clear.
 
