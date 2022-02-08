@@ -23,7 +23,7 @@ Ps: an IP address is not assignable cause it's already taken by either the netwo
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes right after or before C1 IP address.
 
 ![level 1 done](https://user-images.githubusercontent.com/81954460/152797024-ceefb220-99a3-429c-adaa-74bf70ced06b.png)
-
+DONE
 -------------
                                                        * L E V E L (2)
 -------------
