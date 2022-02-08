@@ -41,9 +41,11 @@ Step 3)- The netmasks of Computer C & D are the same; 30 is another way to write
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
-Step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same netmask.
+Step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same mask.
 
-Step 3)- Give Host C & B close IP addresses to Host A IP address. (if the 2 IP addresses that comes after doesn't work try the 2 that comes before).
+Step 3)- Give Host C & B close IP addresses to Host A IP address.
+
+(if the 2 IP addresses that comes after doesn't work try the 2 that comes before).
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
 
 -------------
