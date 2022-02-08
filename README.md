@@ -29,7 +29,7 @@ step 1)- Clear all the sections that you can clear (step 1 will be the same in a
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 Step 2)- Computer 'A' needs to comunicate with computer 'B'; so they must have the same mask and close IP addressses (same as level 1).
 
-Step 3)- The netmasks of Computer C & D are the same; 30 is another way to write 255.255.255.252.
+Step 3)- The netmasks of Computer C & D are already the same; 30 is another way to write 255.255.255.252.
 
   Now we need to give them close IP adresses (such as 20.0.0.1 & 20.0.0.2).
   
