@@ -53,9 +53,11 @@ Step 3)- Give Host C & B close IP addresses to Host A IP address.
 -------------
 Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 56 23 PM](https://user-images.githubusercontent.com/81954460/152797581-070bc051-29a9-44ca-9264-8b89b162a8be.png)
-Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take. For now, give to each item an IP close to A1's.
+Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take. For now, give to each item an IP close to A1 IP.
 
-step 3)- We can put any netmask here except over /29 (why? cause with /30 you can only afford 2 IP addresses) but let's not be greedy and let's put /29.
+step 3)- We can put any netmask here except a mask over /29 (why? cause with /30 for example you can only afford 2 IP addresses).
+
+The smaller the mask the larger range of IP it will give you but let's not be greedy and let's put /29.
 
 -------------
 * LEVEL (5)
