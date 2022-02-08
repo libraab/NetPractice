@@ -3,7 +3,6 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)
 
-TUTORIEL
 
 -------------
                                                       * L E V E L (1) 
