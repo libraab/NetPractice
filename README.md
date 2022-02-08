@@ -58,7 +58,7 @@ DONE
 -------------
                                                        * L E V E L (4)
 -------------
-![Screen Shot 2022-02-07 at 1 56 23 PM](https://user-images.githubusercontent.com/81954460/152797581-070bc051-29a9-44ca-9264-8b89b162a8be.png)
+![Capture d’écran 2022-02-08 à 16 29 04](https://user-images.githubusercontent.com/81954460/153019889-832fcfa8-3461-4a52-bd54-63e5785ce163.png)
 
 Step 1)- Clear all the sections that you can clear.
 
@@ -66,9 +66,13 @@ Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exi
 
 For now, give to each item an IP close to A1 IP.
 
+![Capture d’écran 2022-02-08 à 16 28 48](https://user-images.githubusercontent.com/81954460/153019922-17098961-b92c-47cd-be77-7b5daedbc579.png)
+
 step 3)- We can put any netmask here except a mask over /29 (why? cause with /30 for example you can only afford 2 IP addresses).
 
 The smaller the mask the larger range of IP it will give you but let's not be greedy and let's put /29.
+
+![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
 DONE
 -------------
                                                        * L E V E L (5)
