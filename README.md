@@ -8,8 +8,10 @@ TUTORIEL
 -------------
                                                       * L E V E L (1) 
 -------------
-Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
+
+Step 1)- Clear all the sections that you can clear.
+
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
 
   So we're gonna give to A1 the IP address that comes right after (or before) B1 IP address.
@@ -25,8 +27,10 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes rig
 -------------
                                                        * L E V E L (2)
 -------------
-step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
+
+step 1)- Clear all the sections that you can clear (step 1 will be the same in all the levels, I highly recommend to do it that way).
+
 Step 2)- Computer 'A' needs to comunicate with computer 'B'; so they must have the same mask and close IP addressses (same as level 1).
 
 Step 3)- The netmasks of Computer C & D are already the same; 30 is another way to write 255.255.255.252.
@@ -39,8 +43,10 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
 -------------
                                                        * L E V E L (3)
 -------------
-Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
+
+Step 1)- Clear all the sections that you can clear.
+
 Step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same mask.
 
 Step 3)- Give Host C & B close IP addresses to Host A IP address.
@@ -51,8 +57,10 @@ Step 3)- Give Host C & B close IP addresses to Host A IP address.
 -------------
                                                        * L E V E L (4)
 -------------
-Step 1)- Clear all the sections that you can clear.
 ![Screen Shot 2022-02-07 at 1 56 23 PM](https://user-images.githubusercontent.com/81954460/152797581-070bc051-29a9-44ca-9264-8b89b162a8be.png)
+
+Step 1)- Clear all the sections that you can clear.
+
 Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take.
 
 For now, give to each item an IP close to A1 IP.
