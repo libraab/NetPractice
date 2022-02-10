@@ -155,7 +155,24 @@ DONE
 -------------
                                                   * L E V E L (8)
 -------------
-step 1)- Clear all the sections that you can clear.
+Step 1)- Clear all the sections that you can clear. Let's start on clean sheet.
+
+Step 2)- The first goal tells us that client C needs to communicate with client D; that means C1, D1, R22 and R23 need to be in the same network.
+
+Let's give them the same mask, which means 255.255.255.240.
+
+Step 3)- Put default in all the left sections of the routers.
+
+Step 4)- Before going to fill the IP's, let's notice that this level impose on us a specific network already put in the left section of the internet.
+
+That means that all the devices will have to be in this network in order to have access to the internet.
+
+The address network is 155.55.62.0 and the mask is /26.
+ 
+If you go on an IP calculator (just google it) and put the network address and the mask if gives you a range of assignable IP specific to this network.
+
+Of course you're not allowed to use this site during evaluation, unless your evaluator is your cousin and he'll close his eyes to that. 
+
 DONE
 
 -------------
@@ -164,7 +181,7 @@ DONE
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 
 Goal (1) --> First goal: meson needs to communicate with ion.
-- Clear all the sections that you can clear.
+- Start on clean sheet; clear all the sections.
 - B1 (ion) & A1 (meson) & R11 are in the same network. Give them the same mask as R11.
 - Give to B1 & A1 & R11 the following IP (20.0.0.1 & 20.0.0.2 & 20.0.0.3).
 - Put "default" in the left sections of ion & meson's routes.
