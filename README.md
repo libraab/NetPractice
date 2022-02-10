@@ -84,6 +84,8 @@ DONE
 -------------
 step 1)- Clear all the sections that you can clear.
 
+<img width="1360" alt="blank5" src="https://user-images.githubusercontent.com/81954460/153410385-88abe040-04a5-471e-b865-6f2e3873b9be.png">
+
 step 2)- Give the same netmask to R1 & A1.
 
 step 3)- Give the same netmask to R2 & B1.
@@ -93,6 +95,12 @@ step 4)- In the left section of the machine B routes there is the word "default"
 step 5)- In the right section of machine B routes, put the IP of R2.
 
 step 6)- In the right section of machine A routes, put the IP of R1.
+
+<img width="1260" alt="second5" src="https://user-images.githubusercontent.com/81954460/153410496-19e31f73-e684-4f1f-8621-29866e2ac5f4.png">
+
+Step 7)- Give to B1 an IP close to R1's IP and to A1 an IP close to R2's IP. (...255 and ...127 won't work cause they're already taken).
+
+<img width="1435" alt="DONE5" src="https://user-images.githubusercontent.com/81954460/153411580-964b7709-d740-43a0-aaa3-1dd0cdaf0257.png">
 
 (It's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
 DONE
