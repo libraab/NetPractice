@@ -75,7 +75,7 @@ The smaller the mask the larger range of IP it will give you but let's not be gr
 
 ![Capture d’écran 2022-02-08 à 16 28 48](https://user-images.githubusercontent.com/81954460/153019922-17098961-b92c-47cd-be77-7b5daedbc579.png)
 
-Now, give to each item an IP close to A1 IP.
+Now, give to each device an IP close to A1 IP.
 
 ![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
 DONE
