@@ -70,7 +70,7 @@ Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exi
 
 step 3)- We can put any netmask here except a mask over /29 (why? cause with /30 for example you can only afford 2 IP addresses).
 
-The smaller the mask the larger range of IP it will give you but let's not be greedy and let's put /29.
+The smaller the mask the larger range of IP it will give you but let's not be greedy and let's put /29 just what we need.
 
 ![Capture d’écran 2022-02-08 à 16 28 48](https://user-images.githubusercontent.com/81954460/153019922-17098961-b92c-47cd-be77-7b5daedbc579.png)
 
