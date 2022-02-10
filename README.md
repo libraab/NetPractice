@@ -40,6 +40,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
   Ps : Doesn't work with IP starting with 10 (cause they're private addr).
   
 ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
+
 DONE
  
 -------------
