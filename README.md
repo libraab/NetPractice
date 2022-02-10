@@ -23,6 +23,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP address that comes rig
 
 ![level 1 done](https://user-images.githubusercontent.com/81954460/152797024-ceefb220-99a3-429c-adaa-74bf70ced06b.png)
 DONE
+
 -------------
                                                        * L E V E L (2)
 -------------
@@ -40,6 +41,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
   
  ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
  DONE
+ 
 -------------
                                                      * L E V E L (3)
 -------------
@@ -55,6 +57,7 @@ Step 3)- Give Host C & B close IP addresses to Host A IP address.
 
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
 DONE
+
 -------------
                                                    * L E V E L (4)
 -------------
@@ -74,6 +77,7 @@ The smaller the mask the larger range of IP it will give you but let's not be gr
 
 ![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
 DONE
+
 -------------
                                                        * L E V E L (5)
 -------------
@@ -91,6 +95,7 @@ step 6)- In the right section of machine A routes, put the IP of R1.
 
 (It's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
 DONE
+
 -------------
                                                      * L E V E L (6)
 -------------
@@ -104,6 +109,7 @@ step 4)- R1 has to have a close IP address to A1's IP. R1's IP must be in the ri
 
 step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0) then add a netmask of /24 (if you wonder why /24, because it's convenient.
 DONE
+
 -------------
                                                      * L E V E L (7)
 -------------
@@ -135,10 +141,12 @@ step 9)- When you have 2 routers linked to each other, in order to connect them 
 
 so put R12's IP in the right section of router R2 and put R21's IP in the right section of router R1.
 DONE
+
 -------------
                                                   * L E V E L (8)
 -------------
 step 1)- Clear all the sections that you can clear.
+DONE
 
 -------------
                                                   * L E V E L (9)
@@ -157,8 +165,10 @@ Goal (2) --> cation needs to communicate with gluon.
 - 
 step 3)- 
 DONE
+
 --------------
                                                   * L E V E L (10)
 --------------
 step 1)- clear all the sections that you can clear.
 DONE
+
