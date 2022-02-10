@@ -5,7 +5,7 @@
 
 
 -------------
-                                                 * L E V E L (1) 
+                                                   * L E V E L (1) 
 -------------
 ![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
 
