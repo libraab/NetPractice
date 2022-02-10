@@ -5,7 +5,7 @@
 
 
 -------------
-                                                   * L E V E L (1) 
+                                                    * L E V E L (1) 
 -------------
 ![Screen Shot 2022-02-07 at 2 30 05 PM](https://user-images.githubusercontent.com/81954460/152797260-895d5333-167b-4917-9a82-47ded5d110ed.png)
 
@@ -41,7 +41,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
  ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
  DONE
 -------------
-                                                  * L E V E L (3)
+                                                     * L E V E L (3)
 -------------
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
 
