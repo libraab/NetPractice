@@ -91,11 +91,11 @@ step 2)- Give the same netmask to R1 & A1.
 
 step 3)- Give the same netmask to R2 & B1.
 
-step 4)- In the left section of the machine B routes there is the word "default". Put the same in machine A routes (in the left section of course).
+step 4)- In the left section of the Client B routes there is the word "default". Put the same in Client A routes (in the left section of course).
 
-step 5)- In the right section of machine B routes, put the ip of R2.
+step 5)- In the right section of Client B routes, put the ip of R2.
 
-step 6)- In the right section of machine A routes, put the ip of R1.
+step 6)- In the right section of Client A routes, put the ip of R1.
 
 <img width="1260" alt="second5" src="https://user-images.githubusercontent.com/81954460/153410496-19e31f73-e684-4f1f-8621-29866e2ac5f4.png">
 
