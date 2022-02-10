@@ -39,8 +39,8 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
   
   Ps : Doesn't work with IP starting with 10 (cause they're private addr).
   
- ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
- DONE
+![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
+DONE
  
 -------------
                                                      * L E V E L (3)
@@ -56,7 +56,6 @@ Step 3)- Give Host C & B close IP addresses to Host A IP address.
 (if the 2 IP addresses that comes after doesn't work try the 2 that comes before).
 
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
-
 DONE
 
 -------------
