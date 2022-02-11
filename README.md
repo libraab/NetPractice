@@ -101,7 +101,7 @@ step 6)- In the right section of Client A routes, put the ip of R1.
 
 Step 7)- Give to B1 an ip close to R1's ip and to A1 an ip close to R2's IP. (...255 and ...127 won't work cause they're already taken).
 
-(It's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
+(Remember what we said about routers earlier (entrances & exits) it's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
 
 <img width="1435" alt="DONE5" src="https://user-images.githubusercontent.com/81954460/153411580-964b7709-d740-43a0-aaa3-1dd0cdaf0257.png">
 DONE
