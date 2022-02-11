@@ -15,7 +15,7 @@ Step 2)- In order to comunicate with each other A1 & B1 must have the same netma
 
   So we're gonna give to A1 the ip address that comes right after (or before) B1 ip address.
   
-  If the address before doesn't work that means it is not assignable, try the ip address that comes after.
+  If the ip address that comes before doesn't work that means it is not assignable, try the ip address that comes after.
 
 Ps: an ip addr is not assignable cause it's already taken by either the network or the broadcast.
 
