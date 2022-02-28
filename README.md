@@ -219,5 +219,14 @@ DONE
                                                * L E V E L (10)
 --------------
 step 1)- Start on clean sheet.
+![level10blank](https://user-images.githubusercontent.com/81954460/156001121-53560402-fa41-476f-8e35-a5315b0eb070.png)
+Goal 1) --> R11, H11 and R21 must have the same mask and ip within the same range. And put R11 ip in the right section of R21 and H11 routes.
+![level10-goal1](https://user-images.githubusercontent.com/81954460/156001539-dd7e2a8d-1934-4177-a874-74568199460c.png)
+Goal 2) --> R23 ip is already defined by client H4 routes.
+- For R22 and H31, I did the same substraction as in level 8.
+- H41 mask is 255.255.255.192, calculating how namy left from 192 till 255, 255 - 192 = 62 ip.
+- I start from 170.135.223.129 --> 129 + 62 = 191, and I skip the following one just in case.
+![goal2:3](https://user-images.githubusercontent.com/81954460/156004556-f76d9d03-6901-43e1-bd29-09c8a3da77b5.png)
+![Screen Shot 2022-02-28 at 3 23 58 PM](https://user-images.githubusercontent.com/81954460/156004621-de44ffe0-492d-496e-8ce2-6d6d33dae678.png)
 DONE
 
