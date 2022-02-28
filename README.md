@@ -174,7 +174,7 @@ The address network is 155.55.62.0 and the mask is /26.
 ![level8goal](https://user-images.githubusercontent.com/81954460/155988832-2d298295-ceeb-4ef5-a41f-424038965d61.png)
 I start by filling the ip's for the devices on the left, then the devices on the right, if you wonder why I choose ip's ending with 17 and 18, here's why;
 
-(the mask for the devices on the left is 255.255.255.240 and by doing the substraction (255 - 240) = 15, I know that I have a range of 15 ip's, so I try not to interfere with this range, since I put this ip 134.125.140.1 I know that the next 15 ones are taken by this subnet, so that means from 134.125.140.1 to 134.125.140.15 is taken and the following (134.125.140.16) is usually taken by the broadcast).
+(the mask for the devices on the left is 255.255.255.240 and by doing the substraction (255 - 240) = 15, I know that I have a range of 15 ip's, so I try not to interfere with this range, so that means ip's from 134.125.140.1 to 134.125.140.15 are taken and the following one (134.125.140.16) is usually taken by the broadcast).
 
 If you go on an IP calculator (just google it) and put the network address and the mask if gives you a range of assignable IP specific to this network.
 
@@ -203,7 +203,12 @@ Goal (2) --> cation needs to communicate with gluon.
 - In the right section of Gluon routes, we have an ip; that must be R23 ip.
 - For C1 & R22 you can do as you want; but keep in mind that a small mask and close ip will spare you some headache.
 ![level9-goal2done](https://user-images.githubusercontent.com/81954460/155990003-2bd89684-3929-455c-9db7-97b5537b6fa5.png)
-step 3)- 
+Goal 3)- Meson needs an internet connection, follow the steps.
+![Screen Shot 2022-02-28 at 2 48 30 PM](https://user-images.githubusercontent.com/81954460/155995688-cbdf2acf-7b97-4f25-8117-25457dd162ed.png)
+Goal 4)- We need to establish communication between R13 & R21; for that they must have the same mask and close ip, so I choose 40.0.0.1 & 40.0.0.2, for their routes (purple boxes) they must have the ip of the other. Goal 5 will be acheived at the same time.
+![Screen Shot 2022-02-28 at 3 00 58 PM](https://user-images.githubusercontent.com/81954460/155996330-a00fd6ed-8171-4ac2-ba74-5c97d8d2d01b.png)
+Goal 6)- Internet for cation.
+![Screen Shot 2022-02-28 at 3 07 15 PM](https://user-images.githubusercontent.com/81954460/155997441-36307a38-a903-4715-a725-aaf433a3024b.png)
 DONE
 
 --------------
