@@ -144,7 +144,7 @@ step 4)- A1 must have the ip that comes right after R11 ip.
 step 5)- Put for R21 the ip that comes BEFORE R12 ip. (IPs that ends up with 255 are never assignable).
 
 step 6)- For R22 & C1 we can put 20.0.0.1 & 20.0.0.2
-
+![level7](https://user-images.githubusercontent.com/81954460/155988198-a6c8b9bb-7162-4ad3-9bd2-0a947693c66c.png)
 step 7)- Now let's take care of the routes; put R11's ip in the right section of client A :dev.non-real.net.
 
 step 8)- Put R22's ip in the right section client C :accounting.non-real.net.
@@ -152,16 +152,17 @@ step 8)- Put R22's ip in the right section client C :accounting.non-real.net.
 step 9)- When you have 2 routers linked to each other, in order to connect them we have to give to each of them the ip of the other;
 
 so put R12's ip in the right section of router R2 and put R21's ip in the right section of router R1.
+![level7done](https://user-images.githubusercontent.com/81954460/155988254-3128d6f5-b55c-4109-8f34-6a3e16b683a9.png)
 DONE
 
 -------------
                                                * L E V E L (8)
 -------------
 Step 1)- Start on clean sheet.
-
+![level8blank](https://user-images.githubusercontent.com/81954460/155988300-f36476c1-3761-4e46-8650-4036058e8034.png)
 Step 2)- The first goal tells us that client C needs to communicate with client D; that means C1, D1, R22 and R23 need to be in the same network.
 
-Let's give them the same mask, which means 255.255.255.240.
+Let's give them the same mask, which means 255.255.255.240. R22 & C1 masks could have the same mask aswell but /30 is enough, anyways both works; what's important is that the linked devices (follow the cable) must have the same mask.
 
 Step 3)- Put default in all the left sections of the routers.
 
@@ -170,18 +171,19 @@ Step 4)- Before going to fill the IP's, let's notice that this level impose on u
 That means that all the devices will have to be in this network in order to have access to the internet.
 
 The address network is 155.55.62.0 and the mask is /26.
- 
+![level8goal](https://user-images.githubusercontent.com/81954460/155988832-2d298295-ceeb-4ef5-a41f-424038965d61.png)
 If you go on an IP calculator (just google it) and put the network address and the mask if gives you a range of assignable IP specific to this network.
 
-Of course you're not allowed to use this site during evaluation, unless your evaluator is your cousin and he'll close his eyes to that. 
-
+Of course you're not allowed to use this site during evaluation, unless your evaluator is your cousin and he'll close his eyes to that.
+But this link could be useful for you if you find yourself stuck during training.
+![level8done](https://user-images.githubusercontent.com/81954460/155988868-7187b725-19e5-461d-a077-ac113f48e49c.png)
 DONE
 
 -------------
                                                * L E V E L (9)
 -------------
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
-
+![level9-blank](https://user-images.githubusercontent.com/81954460/155989195-c28c2cc9-a9df-47d4-bc10-e4e7f5274961.png)
 Goal (1) --> First goal: meson needs to communicate with ion.
 - Start on clean sheet.
 - B1 (ion) & A1 (meson) & R11 are in the same network. Give them the same mask as R11.
@@ -189,9 +191,13 @@ Goal (1) --> First goal: meson needs to communicate with ion.
 - Put "default" in the left sections of ion & meson's routes.
 - Put R11's IP in the right section of ion & meson's routes.
 Click on check again to see if goal 1 is achieved.
-
+![level9-goal1](https://user-images.githubusercontent.com/81954460/155989221-672e8155-a664-468c-ae22-d1ffe9761372.png)
 Goal (2) --> cation needs to communicate with gluon.
-- 
+![level9-goal2blank](https://user-images.githubusercontent.com/81954460/155989262-b949938e-8ebd-4670-9a93-e738b9268faf.png)
+- R23 & D1 have to have the same mask which means /18.
+- In the right section of Gluon routes, we have an ip; that must be R23 ip.
+- For C1 & R22 you can do as you want; but keep in mind that a small mask and close ip will spare you some headache.
+![level9-goal2done](https://user-images.githubusercontent.com/81954460/155990003-2bd89684-3929-455c-9db7-97b5537b6fa5.png)
 step 3)- 
 DONE
 
