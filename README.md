@@ -3,7 +3,7 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)
 
-------------------------- N E T P R A C T I C E - T U T O R I E L ----------------------------
+-------------------- N E T P R A C T I C E - T U T O R I E L -----------------------
 -------------
                                                    * L E V E L (1) 
 -------------
