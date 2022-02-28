@@ -1,11 +1,9 @@
 
  💻--🌍--💻
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/abouhlel/NetPractice)](https://github.com/JaeSeoKim/badge42)
-
 ------------------ N E T P R A C T I C E - T U T O R I E L ---------------------
 -------------
-                                            * L E V E L (1) 
+                                            * L E V E L (1) *
 -------------
 <img width="1163" alt="Screenshot 2022-02-10 at 13 55 22" src="https://user-images.githubusercontent.com/81954460/153414118-4681b735-1985-4816-a76e-60fb48f8114f.png">
 
