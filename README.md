@@ -5,7 +5,7 @@
 
 ------------------ N E T P R A C T I C E - T U T O R I E L ---------------------
 -------------
-                                                   * L E V E L (1) 
+                                            * L E V E L (1) 
 -------------
 <img width="1163" alt="Screenshot 2022-02-10 at 13 55 22" src="https://user-images.githubusercontent.com/81954460/153414118-4681b735-1985-4816-a76e-60fb48f8114f.png">
 
@@ -26,7 +26,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the ip address that comes rig
 DONE
 
 -------------
-                                                       * L E V E L (2)
+                                              * L E V E L (2)
 -------------
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 
@@ -45,7 +45,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
 DONE
  
 -------------
-                                                     * L E V E L (3)
+                                                * L E V E L (3)
 -------------
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
 
@@ -61,7 +61,7 @@ Step 3)- Give Host C & B close ip addresses to Host A ip addr.
 DONE
 
 -------------
-                                                   * L E V E L (4)
+                                                * L E V E L (4)
 -------------
 ![Capture d’écran 2022-02-08 à 16 29 04](https://user-images.githubusercontent.com/81954460/153019889-832fcfa8-3461-4a52-bd54-63e5785ce163.png)
 
@@ -81,7 +81,7 @@ Now, give to each device an ip close to A1 ip.
 DONE
 
 -------------
-                                                       * L E V E L (5)
+                                                   * L E V E L (5)
 -------------
 step 1)- Start on clean sheet.
 
@@ -107,7 +107,7 @@ Step 7)- Give to B1 an ip close to R1's ip and to A1 an ip close to R2's IP. (..
 DONE
 
 -------------
-                                                     * L E V E L (6)
+                                                 * L E V E L (6)
 -------------
 step 1)- Start on clean sheet.
 
@@ -121,7 +121,7 @@ step 5)- In the left section of Internet put the network address of A1; how? by 
 DONE
 
 -------------
-                                                     * L E V E L (7)
+                                                  * L E V E L (7)
 -------------
 step 1)- Start on clean sheet.
 
@@ -153,7 +153,7 @@ so put R12's ip in the right section of router R2 and put R21's ip in the right 
 DONE
 
 -------------
-                                                  * L E V E L (8)
+                                               * L E V E L (8)
 -------------
 Step 1)- Start on clean sheet.
 
@@ -176,7 +176,7 @@ Of course you're not allowed to use this site during evaluation, unless your eva
 DONE
 
 -------------
-                                                  * L E V E L (9)
+                                               * L E V E L (9)
 -------------
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 
@@ -194,7 +194,7 @@ step 3)-
 DONE
 
 --------------
-                                                  * L E V E L (10)
+                                               * L E V E L (10)
 --------------
 step 1)- Start on clean sheet.
 DONE
