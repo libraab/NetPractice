@@ -172,7 +172,7 @@ That means that all the devices will have to be in this network in order to have
 
 The address network is 155.55.62.0 and the mask is /26.
 ![level8goal](https://user-images.githubusercontent.com/81954460/155988832-2d298295-ceeb-4ef5-a41f-424038965d61.png)
-I start by filling the ip's for the devices on the left, for the devices on the right, if you wonder why i choose ip's ending with 17 and 18, here's why;
+I start by filling the ip's for the devices on the left, then the devices on the right, if you wonder why I choose ip's ending with 17 and 18, here's why;
 
 (the mask for the devices on the left is 255.255.255.240 and by doing the substraction (255 - 240) = 15, I know that I have a range of 15 ip's, so I try not to interfere with this range, since I put this ip 134.125.140.1 I know that the next 15 ones are taken by this subnet, so that means from 134.125.140.1 to 134.125.140.15 is taken and the following (134.125.140.16) is usually taken by the broadcast).
 
