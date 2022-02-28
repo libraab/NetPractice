@@ -203,11 +203,15 @@ Goal (2) --> cation needs to communicate with gluon.
 - In the right section of Gluon routes, we have an ip; that must be R23 ip.
 - For C1 & R22 you can do as you want; but keep in mind that a small mask and close ip will spare you some headache.
 ![level9-goal2done](https://user-images.githubusercontent.com/81954460/155990003-2bd89684-3929-455c-9db7-97b5537b6fa5.png)
-Goal 3)- Meson needs an internet connection, follow the steps.
+Goal 3) --> Meson needs an internet connection, follow the steps.
 ![Screen Shot 2022-02-28 at 2 48 30 PM](https://user-images.githubusercontent.com/81954460/155995688-cbdf2acf-7b97-4f25-8117-25457dd162ed.png)
-Goal 4)- We need to establish communication between R13 & R21; for that they must have the same mask and close ip, so I choose 40.0.0.1 & 40.0.0.2, for their routes (purple boxes) they must have the ip of the other. Goal 5 will be acheived at the same time.
+Goal 4) --> We need to establish communication between R13 & R21
+- For that they must have the same mask and close ip, so I choose 40.0.0.1 & 40.0.0.2.
+- For their routes (purple boxes) they must have the ip of the other.
+- Goal 5 will be acheived at the same time.
 ![Screen Shot 2022-02-28 at 3 00 58 PM](https://user-images.githubusercontent.com/81954460/155996330-a00fd6ed-8171-4ac2-ba74-5c97d8d2d01b.png)
-Goal 6)- Internet for cation.
+Goal 6) --> Internet for cation.
+- Give to internet the network that cation belongs to and a mask of 24.
 ![Screen Shot 2022-02-28 at 3 07 15 PM](https://user-images.githubusercontent.com/81954460/155997441-36307a38-a903-4715-a725-aaf433a3024b.png)
 DONE
 
