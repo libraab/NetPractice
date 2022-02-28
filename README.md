@@ -24,7 +24,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the ip address that comes rig
 DONE ✅
 
 -------------
-                                              * L E V E L (2)
+                                            * L E V E L (2) *
 -------------
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 
@@ -43,7 +43,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
 DONE ✅
  
 -------------
-                                                * L E V E L (3)
+                                             * L E V E L (3) *
 -------------
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
 
@@ -60,7 +60,7 @@ Step 3)- Give Host C & B close ip addresses to Host A ip addr.
 DONE ✅
 
 -------------
-                                                * L E V E L (4)
+                                              * L E V E L (4) *
 -------------
 ![Capture d’écran 2022-02-08 à 16 29 04](https://user-images.githubusercontent.com/81954460/153019889-832fcfa8-3461-4a52-bd54-63e5785ce163.png)
 
@@ -81,7 +81,7 @@ Now, give to each device an ip close to A1 ip.
 DONE ✅
 
 -------------
-                                               * L E V E L (5)
+                                              * L E V E L (5) *
 -------------
 step 1)- Start on clean sheet.
 
@@ -108,7 +108,7 @@ Step 7)- Give to B1 an ip close to R1's ip and to A1 an ip close to R2's IP. (..
 DONE ✅
 
 -------------
-                                                 * L E V E L (6)
+                                                * L E V E L (6) *
 -------------
 step 1)- Start on clean sheet.
 ![level6-1](https://user-images.githubusercontent.com/81954460/155979791-71465be3-a55a-4492-84cc-2fb8b4fafc3d.png)
@@ -124,7 +124,7 @@ step 5)- In the left section of Internet put the network address of A1; how? by 
 DONE ✅
 
 -------------
-                                                  * L E V E L (7)
+                                                * L E V E L (7) *
 -------------
 step 1)- Start on clean sheet.
 ![level7blank](https://user-images.githubusercontent.com/81954460/155979856-8c57ce08-f187-4c56-9df9-3c87a4fc4ace.png)
@@ -158,7 +158,7 @@ so put R12's ip in the right section of router R2 and put R21's ip in the right 
 DONE ✅
 
 -------------
-                                               * L E V E L (8)
+                                               * L E V E L (8) *
 -------------
 Step 1)- Start on clean sheet.
 ![level8blank](https://user-images.githubusercontent.com/81954460/155988300-f36476c1-3761-4e46-8650-4036058e8034.png)
@@ -188,7 +188,7 @@ But this link could be useful for you if you find yourself stuck during training
 DONE ✅
 
 -------------
-                                               * L E V E L (9)
+                                               * L E V E L (9) *
 -------------
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 ![level9-blank](https://user-images.githubusercontent.com/81954460/155989195-c28c2cc9-a9df-47d4-bc10-e4e7f5274961.png)
@@ -220,7 +220,7 @@ Goal 6) --> Internet for cation.
 DONE ✅
 
 --------------
-                                               * L E V E L (10)
+                                               * L E V E L (10) *
 --------------
 step 1)- Start on clean sheet.
 ![level10blank](https://user-images.githubusercontent.com/81954460/156001121-53560402-fa41-476f-8e35-a5315b0eb070.png)
