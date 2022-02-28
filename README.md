@@ -23,7 +23,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the ip address that comes rig
 
 <img width="1163" alt="Screenshot 2022-02-10 at 13 56 17" src="https://user-images.githubusercontent.com/81954460/153414154-60510143-569a-4046-a9fb-e760aee5972c.png">
 
-DONE
+DONE ✅
 
 -------------
                                               * L E V E L (2)
@@ -42,7 +42,7 @@ Step 3)- The netmasks of Computer C & D are already the same; 30 is another way 
   
 ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
 
-DONE
+DONE ✅
  
 -------------
                                                 * L E V E L (3)
@@ -58,7 +58,8 @@ Step 3)- Give Host C & B close ip addresses to Host A ip addr.
 (if the 2 ip addresses that comes after doesn't work try the 2 that comes before).
 
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
-DONE
+
+DONE ✅
 
 -------------
                                                 * L E V E L (4)
@@ -78,7 +79,8 @@ The smaller the mask the larger range of ip it will give you but let's not be gr
 Now, give to each device an ip close to A1 ip.
 
 ![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
-DONE
+
+DONE ✅
 
 -------------
                                                * L E V E L (5)
@@ -104,7 +106,8 @@ Step 7)- Give to B1 an ip close to R1's ip and to A1 an ip close to R2's IP. (..
 (Remember what we said about routers earlier (entrances & exits) it's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
 
 <img width="1435" alt="DONE5" src="https://user-images.githubusercontent.com/81954460/153411580-964b7709-d740-43a0-aaa3-1dd0cdaf0257.png">
-DONE
+
+DONE ✅
 
 -------------
                                                  * L E V E L (6)
@@ -120,7 +123,7 @@ step 4)- R1 must have a close ip to A1's ip. Put R1's ip in the right section of
 step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0) then add a mask of /24 (if you wonder why /24, because it's convenient.
 ![level6-3](https://user-images.githubusercontent.com/81954460/155979830-d6f471e2-4b3f-47bc-bd01-381e530b5bd0.png)
 
-DONE
+DONE ✅
 
 -------------
                                                   * L E V E L (7)
@@ -153,7 +156,8 @@ step 9)- When you have 2 routers linked to each other, in order to connect them 
 
 so put R12's ip in the right section of router R2 and put R21's ip in the right section of router R1.
 ![level7done](https://user-images.githubusercontent.com/81954460/155988254-3128d6f5-b55c-4109-8f34-6a3e16b683a9.png)
-DONE
+
+DONE ✅
 
 -------------
                                                * L E V E L (8)
@@ -182,7 +186,8 @@ Of course you're not allowed to use this site during evaluation, unless your eva
 But this link could be useful for you if you find yourself stuck during training.
 
 ![level8done](https://user-images.githubusercontent.com/81954460/155988868-7187b725-19e5-461d-a077-ac113f48e49c.png)
-DONE
+
+DONE ✅
 
 -------------
                                                * L E V E L (9)
@@ -213,7 +218,8 @@ Goal 4) --> We need to establish communication between R13 & R21
 Goal 6) --> Internet for cation.
 - Give to internet the network that cation belongs to and a mask of 24.
 ![Screen Shot 2022-02-28 at 3 07 15 PM](https://user-images.githubusercontent.com/81954460/155997441-36307a38-a903-4715-a725-aaf433a3024b.png)
-DONE
+
+DONE ✅
 
 --------------
                                                * L E V E L (10)
@@ -228,5 +234,6 @@ Goal 2) --> R23 ip is already defined by client H4 routes.
 - I start from 170.135.223.129 --> 129 + 62 = 191, and I skip the following one just in case.
 ![goal2:3](https://user-images.githubusercontent.com/81954460/156004556-f76d9d03-6901-43e1-bd29-09c8a3da77b5.png)
 ![Screen Shot 2022-02-28 at 3 23 58 PM](https://user-images.githubusercontent.com/81954460/156004621-de44ffe0-492d-496e-8ce2-6d6d33dae678.png)
-DONE
+
+DONE ✅
 
