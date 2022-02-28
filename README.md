@@ -81,7 +81,7 @@ Now, give to each device an ip close to A1 ip.
 DONE
 
 -------------
-                                                   * L E V E L (5)
+                                               * L E V E L (5)
 -------------
 step 1)- Start on clean sheet.
 
@@ -110,23 +110,25 @@ DONE
                                                  * L E V E L (6)
 -------------
 step 1)- Start on clean sheet.
-
+![level6-1](https://user-images.githubusercontent.com/81954460/155979791-71465be3-a55a-4492-84cc-2fb8b4fafc3d.png)
 step 2)- Put "default" in all the left section of blue boxes except for Internet (cause The internet is special).
 
 step 3)- Netmask of A1 has to be the same of R1's mask.
 
 step 4)- R1 must have a close ip to A1's ip. Put R1's ip in the right section of client A.
-
+![level6-2](https://user-images.githubusercontent.com/81954460/155979807-4f7aab39-fdaa-41fa-92f6-e9ac906f6554.png)
 step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0) then add a mask of /24 (if you wonder why /24, because it's convenient.
+![level6-3](https://user-images.githubusercontent.com/81954460/155979830-d6f471e2-4b3f-47bc-bd01-381e530b5bd0.png)
+
 DONE
 
 -------------
                                                   * L E V E L (7)
 -------------
 step 1)- Start on clean sheet.
-
+![level7blank](https://user-images.githubusercontent.com/81954460/155979856-8c57ce08-f187-4c56-9df9-3c87a4fc4ace.png)
 step 2)- If you already have "0.0.0.0/0" at the left section of the routes keep them("0.0.0.0/0" or "default" are the same).
-
+![Screen Shot 2022-02-28 at 12 52 39 PM](https://user-images.githubusercontent.com/81954460/155979888-7a358f5d-1731-461e-ad36-b2e7846fdea4.png)
 step 3)- Here we have 3 networks; R11 & A1 are linked and must be in the same network, same for R12 & R21, same for R22 & C1.
 
 Since for each network we only have two devices we can use a mask of /30 (that give us a range of only 2 ip addresses which is enough).
