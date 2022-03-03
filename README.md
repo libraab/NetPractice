@@ -165,7 +165,7 @@ Step 1)- Start on clean sheet.
 ![level8blank](https://user-images.githubusercontent.com/81954460/155988300-f36476c1-3761-4e46-8650-4036058e8034.png)
 Step 2)- The first goal tells us that client C needs to communicate with client D; that means C1, D1, R22 and R23 need to be in the same network.
 
-Let's give them the same mask, which means 255.255.255.240. R22 & C1 masks could have the same mask aswell but /30 is enough, anyways both works; what's important is that the linked devices (follow the cable) must have the same mask.
+Let's give them the same mask, which means 255.255.255.240. R22 & C1 masks could have the same mask aswell but /30 is enough, anyways both works; what's important is that the linked devices (follow the wire) must have the same mask.
 
 Step 3)- Put default in all the left sections of the routers.
 
