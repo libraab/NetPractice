@@ -180,6 +180,7 @@ I start by filling the ip's for the devices on the left, then the devices on the
 (the mask for the devices on the left is 255.255.255.240 and by doing the substraction (255 - 240) = 15, I know that I have a range of 15 ip's, so I try not to interfere with this range, so that means ip's from 134.125.140.1 to 134.125.140.15 are taken and the following one (134.125.140.16) is usually taken by the broadcast).
 
 If you go on any IP calculator site and put the network address and the mask if gives you the range of assignable IP specific to this network and other informations, just to have an idea.
+![Screen Shot 2022-03-03 at 6 26 21 PM](https://user-images.githubusercontent.com/81954460/156619564-24c94dcd-056a-493e-b6a1-abc525dfe50b.png)
 
 Of course you're not allowed to use this site during evaluation, unless your evaluator is your cousin and he'll close his eyes to that.
 But this link could be useful for you if you find yourself stuck during training.
