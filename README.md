@@ -173,7 +173,7 @@ Step 4)- Before going to fill the IP's, let's notice that this level impose on u
 
 That means that all the devices will have to be in this network in order to have access to the internet.
 
-The address network is 155.55.62.0 and the mask is /26.
+The address network is 134.125.140.0 and the mask is /26.
 ![level8goal](https://user-images.githubusercontent.com/81954460/155988832-2d298295-ceeb-4ef5-a41f-424038965d61.png)
 I start by filling the ip's for the devices on the left, then the devices on the right, if you wonder why I choose ip's ending with 17 and 18, here's why;
 
