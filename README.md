@@ -143,9 +143,9 @@ So put a mask /30 for everyone.
 
 step 4)- A1 must have the ip that comes right after R11 ip.
 
-step 5)- Put for R21 the ip that comes BEFORE R12 ip. (IPs that ends up with 255 are never assignable).
+step 5)- For R21 put the ip that comes BEFORE R12 ip. (IPs that ends up with 255 are never assignable cause they're already taken by the broadcast).
 
-step 6)- For R22 & C1 we can put 20.0.0.1 & 20.0.0.2
+step 6)- For R22 & C1 we can put 20.0.0.1 & 20.0.0.2, it works, no need to be fancy.
 ![level7](https://user-images.githubusercontent.com/81954460/155988198-a6c8b9bb-7162-4ad3-9bd2-0a947693c66c.png)
 step 7)- Now let's take care of the routes; put R11's ip in the right section of client A :dev.non-real.net.
 
