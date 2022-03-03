@@ -49,7 +49,7 @@ DONE ✅
 
 Step 1)- Clear all the sections that you can clear. Let's start on clean sheet.
 
-Step 2)- Host A, B and C are in the same network (they are linked to each other), give them all the same mask.
+Step 2)- Host A, B and C are in the same network (they are linked to each other by the wire, it's like the switch doesn't exist), give them all the same mask.
 
 Step 3)- Give Host C & B close ip addresses to Host A ip addr.
 
