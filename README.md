@@ -112,15 +112,16 @@ DONE ✅
 -------------
                                                 * L E V E L (6) *
 -------------
-step 1)- Start on clean sheet.
+step 1)- 🧹
 ![level6-1](https://user-images.githubusercontent.com/81954460/155979791-71465be3-a55a-4492-84cc-2fb8b4fafc3d.png)
-step 2)- Put "default" in all the left section of blue boxes except for Internet (cause The internet is special).
+step 2)- Put "default" in all the left section of blue boxes except for Internet (cause The internet is special 🥰).
 
 step 3)- Netmask of A1 has to be the same of R1's mask.
 
-step 4)- R1 must have a close ip to A1's ip. Put R1's ip in the right section of client A.
+step 4)- R1 must have a close ip to A1's ip.
+       - Put R1's ip in the right section of client A (remember; always in the right sections of routes, put the IP of the closest router, even for the internet).
 ![level6-2](https://user-images.githubusercontent.com/81954460/155979807-4f7aab39-fdaa-41fa-92f6-e9ac906f6554.png)
-step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0) then add a mask of /24 (if you wonder why /24, because it's convenient.
+step 5)- In the left section of Internet put the network address of A1; how? by replacing the last digits by 0 ) then add a mask of /24 (if you wonder why /24, because it's convenient).
 ![level6-3](https://user-images.githubusercontent.com/81954460/155979830-d6f471e2-4b3f-47bc-bd01-381e530b5bd0.png)
 
 DONE ✅
@@ -238,4 +239,9 @@ Goal 2) --> R23 ip is already defined by client H4 routes.
 
 DONE ✅
 
-Congratulation if you passed, and congrats for finishing this big ass tutorial.
+If you have to remember 3 rules:
+-Same mask if the same subnet (mask : the smaller the better)
+-Close IP (no private ones)
+-Blue boxes : closest router's IP in the right & default in the left (except for the internet)
+
+🥳 Congratulation if you passed, and congrats for finishing this big ass tutorial 🫡.
