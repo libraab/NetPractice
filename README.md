@@ -64,7 +64,7 @@ DONE ✅
 -------------
 ![Capture d’écran 2022-02-08 à 16 29 04](https://user-images.githubusercontent.com/81954460/153019889-832fcfa8-3461-4a52-bd54-63e5785ce163.png)
 
-Step 1)- Start on clean sheet; clear all the sections.
+Step 1)- ...🧹
 
 Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take, we'll get there.
 
