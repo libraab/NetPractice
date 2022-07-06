@@ -32,11 +32,11 @@ step 1)- Clear all the sections that you can clear (step 1 will be the same in a
 
 Step 2)- Computer 'A' needs to comunicate with computer 'B'; so they must have the same mask and close ip addressses (same as level 1).
 
-Step 3)- The netmasks of Computer C & D are already the same; 30 is another way to write 255.255.255.252.
+Step 3)- The netmasks of C & D are already the same; /30 is another way to write 255.255.255.252.
 
   Now we need to give them close ip adresses (such as 20.0.0.1 & 20.0.0.2).
   
-  Ps : Doesn't work with ip starting with 10 (cause they're private addr).
+  Ps : Avoid using private IP addresses (such as those starting with 10) cause it's not gonna work of course.
   
 ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
 
@@ -49,9 +49,9 @@ DONE ✅
 
 Step 1)- Clear all the sections that you can clear. Let's start on clean sheet.
 
-Step 2)- Host A, B and C are in the same network (they are linked to each other by the wire, it's like the switch doesn't exist), give them all the same mask.
+Step 2)- Host A, B and C are in the same network (they are linked to each other by the wire, let's just assume that the switch doesn't exist), put the same mask to all 3 of them.
 
-Step 3)- Give Host C & B close ip addresses to Host A ip addr.
+Step 3)- Give Host C & B close ip addresses to Host A's IP.
 
 (if the 2 ip addresses that comes after doesn't work try the 2 that comes before).
 
@@ -66,16 +66,16 @@ DONE ✅
 
 Step 1)- Start on clean sheet; clear all the sections.
 
-Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take.
+Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take, we'll get there.
 
-step 3)- We can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 ip addresses).
+step 3)- For now we can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 IP and we need 3).
 ![Screen Shot 2022-03-03 at 5 48 50 PM](https://user-images.githubusercontent.com/81954460/156613094-2d1385cf-804b-407a-baff-810052179b91.png)
 
-The smaller the mask the larger range of ip it will give you but let's not be greedy and let's put /29 just what we need.
+The smaller the mask the larger range of IP it will give you but let's not be greedy; /29 is just what we need.
 
 ![Capture d’écran 2022-02-08 à 16 28 48](https://user-images.githubusercontent.com/81954460/153019922-17098961-b92c-47cd-be77-7b5daedbc579.png)
 
-Now, give to each device an ip close to A1 ip.
+Now, give to each device an IP close to A1's IP.
 
 ![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
 
@@ -102,7 +102,7 @@ step 6)- In the right section of Client A routes, put the ip of R1.
 
 Step 7)- Give to B1 an ip close to R1's ip and to A1 an ip close to R2's IP. (...255 and ...127 won't work cause they're already taken).
 
-(Remember what we said about routers earlier (entrances & exits) it's like telling the computer "if you don't find what you're looking for, by default go there, and look for it").
+(Remember what we said about routers earlier (entrances & exits) it's like saying to the device "if you're looking for someone (left section) (default = anyone), go there (right section)". If you want the safest way and you just wanna pass, then, ALWAYS put defaut in the left section and the IP of the closest router's entrance in the right section).
 
 <img width="1435" alt="DONE5" src="https://user-images.githubusercontent.com/81954460/153411580-964b7709-d740-43a0-aaa3-1dd0cdaf0257.png">
 
