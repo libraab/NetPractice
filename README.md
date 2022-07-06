@@ -240,10 +240,14 @@ Goal 2) --> R23 ip is already defined by client H4 routes.
 DONE ✅
 
 If you have to remember 3 rules:
+
 -Same mask if the same subnet (mask : the smaller the better).
 
 -Close IP (no private ones).
 
 -Blue boxes : closest router's IP in the right & default in the left (except for the internet).
+
+
+
 
 🥳 Congratulation if you passed, and congrats for finishing this big ass tutorial 🫡.
