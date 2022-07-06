@@ -72,7 +72,7 @@ step 3)- For now we can put any netmask here except a mask over /29 (why? cause 
 
 ![Screen Shot 2022-03-03 at 5 48 50 PM](https://user-images.githubusercontent.com/81954460/156613094-2d1385cf-804b-407a-baff-810052179b91.png)
 
-The smaller the mask the larger range of IP it will give you but let's not be greedy; /29 is just what we need.
+The smaller the mask the larger range of IP it will give you. But let's not be greedy; /29 is already more than we need.
 
 ![Capture d’écran 2022-02-08 à 16 28 48](https://user-images.githubusercontent.com/81954460/153019922-17098961-b92c-47cd-be77-7b5daedbc579.png)
 
@@ -128,7 +128,7 @@ DONE ✅
 -------------
                                                 * L E V E L (7) *
 -------------
-step 1)- Start on clean sheet.
+step 1)- 🧹
 ![level7blank](https://user-images.githubusercontent.com/81954460/155979856-8c57ce08-f187-4c56-9df9-3c87a4fc4ace.png)
 step 2)- If you already have "0.0.0.0/0" at the left section of the routes keep them("0.0.0.0/0" or "default" are the same).
 ![Screen Shot 2022-02-28 at 12 52 39 PM](https://user-images.githubusercontent.com/81954460/155979888-7a358f5d-1731-461e-ad36-b2e7846fdea4.png)
@@ -162,7 +162,7 @@ DONE ✅
 -------------
                                                * L E V E L (8) *
 -------------
-Step 1)- Start on clean sheet.
+Step 1)- 🧹
 ![level8blank](https://user-images.githubusercontent.com/81954460/155988300-f36476c1-3761-4e46-8650-4036058e8034.png)
 Step 2)- The first goal tells us that client C needs to communicate with client D; that means C1, D1, R22 and R23 need to be in the same network.
 
@@ -196,7 +196,7 @@ DONE ✅
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 ![level9-blank](https://user-images.githubusercontent.com/81954460/155989195-c28c2cc9-a9df-47d4-bc10-e4e7f5274961.png)
 Goal (1) --> First goal: meson needs to communicate with ion.
-- Start on clean sheet.
+- First thing first 🧹
 - B1 (ion) & A1 (meson) & R11 are in the same network. Give them the same mask as R11.
 - Give to B1 & A1 & R11 the following IP (20.0.0.1 & 20.0.0.2 & 20.0.0.3).
 - Put "default" in the left sections of ion & meson's routes.
@@ -225,7 +225,7 @@ DONE ✅
 --------------
                                                * L E V E L (10) *
 --------------
-step 1)- Start on clean sheet.
+step 1)- 🧽
 ![level10blank](https://user-images.githubusercontent.com/81954460/156001121-53560402-fa41-476f-8e35-a5315b0eb070.png)
 Goal 1) --> R11, H11 and R21 must have the same mask and ip within the same range. And put R11 ip in the right section of R21 and H11 routes.
 ![level10-goal1](https://user-images.githubusercontent.com/81954460/156001539-dd7e2a8d-1934-4177-a874-74568199460c.png)
@@ -238,3 +238,4 @@ Goal 2) --> R23 ip is already defined by client H4 routes.
 
 DONE ✅
 
+Congratulation if you passed, and congrats for finishing this big ass tutorial.
