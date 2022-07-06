@@ -69,6 +69,7 @@ Step 1)- Start on clean sheet; clear all the sections.
 Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take, we'll get there.
 
 step 3)- For now we can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 IP and we need 3).
+
 ![Screen Shot 2022-03-03 at 5 48 50 PM](https://user-images.githubusercontent.com/81954460/156613094-2d1385cf-804b-407a-baff-810052179b91.png)
 
 The smaller the mask the larger range of IP it will give you but let's not be greedy; /29 is just what we need.
