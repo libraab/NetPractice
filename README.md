@@ -70,7 +70,7 @@ Step 1)- ...🧹
 
 Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exits), in this level it's useless but for the next levels we're gonna have to tell what entrance and exit to take, we'll get there.
 
-Remember earlier we said that netmask is an address used to distinguish host address & network address; see it as a knife 🔪 that will cut the cake (network) into pieces (subnets), if I decide to assign a mask of 30 (255.255.255.252) to the IP, that means I'm cutting the whole network into ranges of 2
+Remember earlier we said that netmask is an address used to distinguish host address & network address; see it as a knife 🔪 that will cut the cake (network) into pieces (subnets), if I decide to assign a mask of 30 (255.255.255.252) to the IP, that means I'm cutting the whole network into ranges of 2 creating for each range its own network & broadcast addresses 👇🏻
 ![Screenshot ](https://user-images.githubusercontent.com/81954460/229325661-d1359fcd-fb8b-41eb-bad7-93270a2fbe10.jpg)
 
 step 3)- For the subnet (B1, R1 & A1) we can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 IP and we need 3).
