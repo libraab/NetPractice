@@ -5,6 +5,8 @@
 -------------
                                             * L E V E L (1) *
 -------------
+<details>
+  <summary>Level 1</summary>
 <img width="1163" alt="Screenshot 2022-02-10 at 13 55 22" src="https://user-images.githubusercontent.com/81954460/153414118-4681b735-1985-4816-a76e-60fb48f8114f.png">
 
 Step 1)- Clear all the sections that you can clear.
@@ -24,7 +26,7 @@ Step 3)- Same with C1 & D1, we're gonna give to D1 the IP addr that comes right 
 <img width="1163" alt="Screenshot 2022-02-10 at 13 56 17" src="https://user-images.githubusercontent.com/81954460/153414154-60510143-569a-4046-a9fb-e760aee5972c.png">
 
 DONE ✅
-
+</details>
 -------------
                                             * L E V E L (2) *
 -------------
