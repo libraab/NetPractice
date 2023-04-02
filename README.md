@@ -27,7 +27,10 @@ DONE ✅
 </details>
 
 <details>
- <summary>Level (2)</summary>
+ <summary>
+  -------------
+  Level (2)
+  -------------</summary>
 
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 
