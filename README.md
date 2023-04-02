@@ -27,7 +27,6 @@ DONE ✅
 </details>
 
 <details>
- -------------
  <summary>Level (2)</summary>
 
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
@@ -45,12 +44,11 @@ Step 3)- The netmasks of C & D are already the same; /30 is another way to write
 ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
 
 DONE ✅
--------------
 </details>
 
--------------
-                                             * L E V E L (3) *
--------------
+<details>
+ <summary>Level (3)</summary>
+ 
 ![Screen Shot 2022-02-07 at 1 54 35 PM](https://user-images.githubusercontent.com/81954460/152797552-ea31436f-fc32-4497-a0d4-2e4095ec24a0.png)
 
 Step 1)- Clear all the sections that you can clear. Let's start on clean sheet.
@@ -64,10 +62,11 @@ Step 3)- Give Host C & B IP addresses close to Host A's IP.
 ![Screen Shot 2022-02-07 at 1 55 48 PM](https://user-images.githubusercontent.com/81954460/152797562-547f9a3e-3eb3-4a3a-99dc-0c5f27e39d51.png)
 
 DONE ✅
+</details>
 
--------------
-                                              * L E V E L (4) *
--------------
+<details>
+ <summary>Level (4)</summary>
+
 ![Capture d’écran 2022-02-08 à 16 29 04](https://user-images.githubusercontent.com/81954460/153019889-832fcfa8-3461-4a52-bd54-63e5785ce163.png)
 
 Step 1)- ...🧹
@@ -90,10 +89,11 @@ Now, give to each device an IP close to A1's IP.
 ![Capture d’écran 2022-02-08 à 16 27 16](https://user-images.githubusercontent.com/81954460/153019948-3ed7957c-0459-45c5-a69b-34e1cd13886c.png)
 
 DONE ✅
+</details>
 
--------------
-                                              * L E V E L (5) *
--------------
+<details>
+ <summary>Level (5)</summary>
+ 
 step 1)- Start on clean sheet.
 
 <img width="1360" alt="blank5" src="https://user-images.githubusercontent.com/81954460/153410385-88abe040-04a5-471e-b865-6f2e3873b9be.png">
@@ -117,10 +117,11 @@ Step 7)- Give to B1 an IP close to R1's IP and to A1 an IP close to R2's IP. (..
 <img width="1435" alt="DONE5" src="https://user-images.githubusercontent.com/81954460/153411580-964b7709-d740-43a0-aaa3-1dd0cdaf0257.png">
 
 DONE ✅
+</details>
 
--------------
-                                                * L E V E L (6) *
--------------
+<details>
+ <summary>Level (6)</summary>
+ 
 step 1)- 🧹
 ![level6-1](https://user-images.githubusercontent.com/81954460/155979791-71465be3-a55a-4492-84cc-2fb8b4fafc3d.png)
 step 2)- Put "default" in all the left section of blue boxes except for Internet (cause The internet is special 🥰).
@@ -135,10 +136,11 @@ Seriously, if you're really curious and wanna know, it's just because I know tha
 ![level6-3](https://user-images.githubusercontent.com/81954460/155979830-d6f471e2-4b3f-47bc-bd01-381e530b5bd0.png)
 
 DONE ✅
+</details>
 
--------------
-                                                * L E V E L (7) *
--------------
+<details>
+ <summary>Level (7)</summary>
+ 
 step 1)- 🧹
 ![level7blank](https://user-images.githubusercontent.com/81954460/155979856-8c57ce08-f187-4c56-9df9-3c87a4fc4ace.png)
 step 2)- If you already have "0.0.0.0/0" at the left section of the routes keep them("0.0.0.0/0" or "default" are the same).
@@ -167,10 +169,11 @@ step 9)- When you have 2 routers linked to each other, in order to connect them 
 ![level7done](https://user-images.githubusercontent.com/81954460/155988254-3128d6f5-b55c-4109-8f34-6a3e16b683a9.png)
 
 DONE ✅
+</details>
 
--------------
-                                               * L E V E L (8) *
--------------
+<details>
+ <summary>Level (8)</summary>
+ 
 Step 1)- 🧹
 ![level8blank](https://user-images.githubusercontent.com/81954460/155988300-f36476c1-3761-4e46-8650-4036058e8034.png)
 Step 2)- The first goal tells us that client C needs to communicate with client D; that means C1, D1, R22 and R23 need to be in the same network.
@@ -198,10 +201,11 @@ But this link could be useful for you if you find yourself stuck during training
 ![level8done](https://user-images.githubusercontent.com/81954460/155988868-7187b725-19e5-461d-a077-ac113f48e49c.png)
 
 DONE ✅
+</details>
 
--------------
-                                               * L E V E L (9) *
--------------
+<details>
+ <summary>Level (9)</summary>
+ 
 Ok this level is the most tricky one. Let's try to achieve a goal at a time.
 ![level9-blank](https://user-images.githubusercontent.com/81954460/155989195-c28c2cc9-a9df-47d4-bc10-e4e7f5274961.png)
 Goal (1) --> First goal: meson needs to communicate with ion.
@@ -231,10 +235,11 @@ Goal 6) --> Internet for cation.
 In this level, you will notice that some sections are left blank, no need to fill them since every goal is achieved.
 
 DONE ✅
+</details>
 
---------------
-                                               * L E V E L (10) *
---------------
+<details>
+ <summary>Level (10)</summary>
+ 
 step 1)- 🧽
 ![level10blank](https://user-images.githubusercontent.com/81954460/156001121-53560402-fa41-476f-8e35-a5315b0eb070.png)
 Goal 1) --> R11, H11 and R21 must have the same mask and IP within the same range. Put R11 IP in the right section of R21 and H11 routes.
@@ -247,10 +252,11 @@ Goal 2) --> R23 IP is already known (check H4 routes).
 ![Screen Shot 2022-02-28 at 3 23 58 PM](https://user-images.githubusercontent.com/81954460/156004621-de44ffe0-492d-496e-8ce2-6d6d33dae678.png)
 
 DONE ✅
+</details>
 
 If you have to remember 3 rules:
 
--Same mask if the same subnet (mask : the smaller the better).
+-Same mask if within the same subnet (mask : the smaller the better).
 
 -Close IP (no private ones).
 
