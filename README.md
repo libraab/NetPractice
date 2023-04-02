@@ -27,10 +27,8 @@ DONE ✅
 </details>
 
 <details>
- <summary>
-  -------------
-  Level (2)
-  -------------</summary>
+ -------------
+ <summary>Level (2)</summary>
 
 ![Screen Shot 2022-02-07 at 1 32 48 PM](https://user-images.githubusercontent.com/81954460/152797489-c95dd1fe-f3b5-4f2d-b376-8b83847d2895.png)
 
@@ -47,6 +45,7 @@ Step 3)- The netmasks of C & D are already the same; /30 is another way to write
 ![Screen Shot 2022-02-07 at 1 53 29 PM](https://user-images.githubusercontent.com/81954460/152797521-b1a9bb6b-faa5-4318-9aee-ed46c36bb4d7.png)
 
 DONE ✅
+-------------
 </details>
 
 -------------
