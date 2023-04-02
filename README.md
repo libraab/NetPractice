@@ -9,13 +9,14 @@
 
 Step 1)- Clear all the sections that you can clear.
 
-Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask and close IP addresses (same for C1 & D1).
+Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask (or subnet mask) and close IP addresses (same for C1 & D1).
 
   So we're gonna give to A1 the IP address that comes right after (or before) B1 ip address.
   
   If the IP address that comes before doesn't work that means it is not assignable, try the IP address that comes after.
 
 Ps: an IP addr is not assignable cause it's already taken by either the network or the broadcast (exemple IP that ends with .0 or .255).
+2nd Ps: a netmask is an address that is used to distinguish a host address and the network address.
 
 Step 3)- Same with C1 & D1, we're gonna give to D1 the IP addr that comes right after or before C1 IP addr.
 
