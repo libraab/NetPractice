@@ -73,7 +73,7 @@ Step 2)- Here we have a router, don't panic (it's kinda box of entrances and exi
 Remember earlier we said that netmask is an address used to distinguish host address & network address; see it as a knife 🔪 that will cut the cake (network) into pieces (subnets), if I decide to assign a mask of 30 (255.255.255.252) to the IP, that means I'm cutting the whole network into ranges of 2
 ![Screenshot ](https://user-images.githubusercontent.com/81954460/229325661-d1359fcd-fb8b-41eb-bad7-93270a2fbe10.jpg)
 
-step 3)- For now we can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 IP and we need 3).
+step 3)- For the subnet (B1, R1 & A1) we can put any netmask here except a mask over /29 (why? cause with /30 you can afford only 2 IP and we need 3).
 
 ![Screen Shot 2022-03-03 at 5 48 50 PM](https://user-images.githubusercontent.com/81954460/156613094-2d1385cf-804b-407a-baff-810052179b91.png)
 
