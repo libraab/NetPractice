@@ -15,7 +15,7 @@ Step 2)- In order to comunicate with each other A1 & B1 must have the same netma
   
   If the IP address that comes before doesn't work that means it is not assignable, try the IP address that comes after.
 
-Ps: an IP addr is not assignable cause it's already taken by either the network or the broadcast (exemple IP that ends with .0 or .255).
+Ps: an IP addr is not assignable if it's already taken by either the network or the broadcast (exemple IP that ends with .0 or .255).
 
 2nd Ps: a netmask is an address that is used to distinguish a host address and the network address.
 
