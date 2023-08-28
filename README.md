@@ -7,7 +7,7 @@
   <summary>Level (1)</summary>
 <img width="1163" alt="Screenshot 2022-02-10 at 13 55 22" src="https://user-images.githubusercontent.com/81954460/153414118-4681b735-1985-4816-a76e-60fb48f8114f.png">
 
-Step 1)- Clear all the sections that you can clear.
+Step 1)- Clear all the sections that can be cleared.
 
 Step 2)- In order to comunicate with each other A1 & B1 must have the same netmask (or subnet mask) and close IP addresses (same for C1 & D1).
 
