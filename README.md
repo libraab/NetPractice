@@ -1,4 +1,4 @@
-
+(DEPRECATED)
  💻--🌍--💻
 
 ------------------ N E T P R A C T I C E - T U T O R I E L ---------------------
